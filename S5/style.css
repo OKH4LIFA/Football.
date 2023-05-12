@@ -1,0 +1,145 @@
+.top{
+    text-align: center;
+    border: double;
+}
+.m1{
+    text-align: center;
+    border: solid;
+    float: left;
+    width: 18%;
+     height: 437px; 
+}
+.m2, .m3{
+    text-align: center;
+    border: solid;
+    float: left;
+    width: 18%;
+     height: 437px; 
+    margin-left: 35px;
+}
+
+.m4{
+    text-align: center;
+    border: solid;
+    float: left;
+    width: 18%;
+    margin-left: 35px;
+}
+.m5{
+    text-align: center;
+    border: solid;
+    float: left;
+    width: 18%;
+    height: 437px;
+    margin-left: 35px;
+}
+.me1{
+    text-align: center;
+    border: double;
+    width: 500px;
+    margin-left: 700px;
+}
+.me2{
+    text-align: center;
+    border: solid;
+    float: left;
+    padding: 15px;
+    height: 370px;
+}
+.me3{
+    text-align: center;
+    float: left;
+    padding: 15px;
+    margin-left: 20px;
+    border: solid;
+    height: 370px;
+}
+.me4{
+    text-align: center;
+    float: left;
+    padding: 15px;
+    margin-left: 20px;
+    border: solid;
+    height: 370px;
+}
+.me5{
+    text-align: center;
+    float: left;
+    padding: 15px;
+    margin-left: 20px;
+    border: solid;
+    height: 370px;
+}
+.me6{
+    text-align: center;
+    float: left;
+    padding: 15px;
+    margin-left: 20px;
+    border: solid;
+    height: 370px;
+}
+.me7{
+    text-align: center;
+    float: left;
+    padding: 15px;
+    margin-left: 20px;
+    border: solid;
+}
+.p1{
+    text-align: center;
+    border: double;
+    width: 500px;
+    margin-left: 700px;
+}
+.p2{
+    text-align: center;
+    border: solid;
+    float: left;
+    padding: 15px;
+}
+.p3{
+    text-align: center;
+    float: left;
+    padding: 15px;
+    margin-left: 20px;
+    border: solid;
+}
+.p4{
+    text-align: center;
+    float: left;
+    padding: 15px;
+    margin-left: 20px;
+    border: solid;
+    height: 137px;
+}
+.p5{
+    text-align: center;
+    float: left;
+    padding: 15px;
+    margin-left: 20px;
+    border: solid;
+    height: 137px;
+}
+a{
+    text-decoration-line: none;
+    font-size: larger;
+    color: blueviolet;
+}
+h1{
+    color: blueviolet;
+}
+h2{
+    color: blueviolet;
+}
+.ma1{
+    text-align: center;
+    border: double;
+    width: 550px;
+    margin-left: 700px;
+}
+.ma2{
+    text-align: center;
+    border: solid;
+    float: left;
+    padding: 15px;
+}
